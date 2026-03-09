@@ -7,7 +7,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 ## Problem Statement and Dataset
 Develop an LSTM-based model to recognize named entities from text using the ner_dataset.csv, with words and NER tags as features.
 
-<img width="528" height="946" alt="image" src="https://github.com/user-attachments/assets/111092e9-c119-4bcf-af7e-8f6d4177d53a" />
+<img width="876" height="945" alt="image" src="https://github.com/user-attachments/assets/e11a7b07-37f0-44bd-bd09-20ad6c86bb7d" />
+
 
 ## DESIGN STEPS
 ### STEP 1:
@@ -91,6 +92,7 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 
 ### Sample Text Prediction
+<img width="1327" height="864" alt="image" src="https://github.com/user-attachments/assets/47b655e9-5916-4633-9b99-b63477b64c4a" />
 
 
 
